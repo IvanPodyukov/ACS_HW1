@@ -1,0 +1,94 @@
+Filled container: Container contains 11 elements.
+1: It is a fiction
+Name = jfjke
+Year = 1976
+Quotient = 395.200000
+Producer = jejj
+2: It is a cartoon
+Name = eikdffk
+Year = 2022
+Quotient = 288.857143
+Cartoon type = puppet
+3: It is a science
+Name = fjfjj
+Year = 1973
+Quotient = 394.600000
+Length_of_movie_in_minutes = 45
+4: It is a cartoon
+Name = cartoondefault
+Year = 2018
+Quotient = 144.142857
+Cartoon type = puppet
+5: It is a fiction
+Name = best
+Year = 1998
+Quotient = 499.500000
+Producer = 3
+6: It is a cartoon
+Name = abrd
+Year = 1988
+Quotient = 497.000000
+Cartoon type = puppet
+7: It is a cartoon
+Name = uiko
+Year = 1956
+Quotient = 489.000000
+Cartoon type = plasticine
+8: It is a science
+Name = science0
+Year = 2004
+Quotient = 250.500000
+Length_of_movie_in_minutes = 33
+9: It is a science
+Name = none
+Year = 1967
+Quotient = 491.750000
+Length_of_movie_in_minutes = 67
+10: It is a science
+Name = space
+Year = 2018
+Quotient = 403.600000
+Length_of_movie_in_minutes = 28
+11: It is a fiction
+Name = bestfiction
+Year = 1966
+Quotient = 178.727273
+Producer = bestproducer
+
+Average quotient = 366.625207
+Changed container: Container contains 7 elements.
+1: It is a fiction
+Name = jfjke
+Year = 1976
+Quotient = 395.200000
+Producer = jejj
+2: It is a science
+Name = fjfjj
+Year = 1973
+Quotient = 394.600000
+Length_of_movie_in_minutes = 45
+3: It is a fiction
+Name = best
+Year = 1998
+Quotient = 499.500000
+Producer = 3
+4: It is a cartoon
+Name = abrd
+Year = 1988
+Quotient = 497.000000
+Cartoon type = puppet
+5: It is a cartoon
+Name = uiko
+Year = 1956
+Quotient = 489.000000
+Cartoon type = plasticine
+6: It is a science
+Name = none
+Year = 1967
+Quotient = 491.750000
+Length_of_movie_in_minutes = 67
+7: It is a science
+Name = space
+Year = 2018
+Quotient = 403.600000
+Length_of_movie_in_minutes = 28

@@ -1,0 +1,29 @@
+Filled container: Container contains 3 elements.
+1: It is a fiction
+Name = film1
+Year = 2012
+Quotient = 402.400000
+Producer = producer1
+2: It is a science
+Name = film2
+Year = 2015
+Quotient = 403.000000
+Length_of_movie_in_minutes = 68
+3: It is a cartoon
+Name = film3
+Year = 1950
+Quotient = 390.000000
+Cartoon type = puppet
+
+Average quotient = 398.466667
+Changed container: Container contains 2 elements.
+1: It is a fiction
+Name = film1
+Year = 2012
+Quotient = 402.400000
+Producer = producer1
+2: It is a science
+Name = film2
+Year = 2015
+Quotient = 403.000000
+Length_of_movie_in_minutes = 68

@@ -1,0 +1,3 @@
+C:/Users/ivan2/Downloads/ACS_HW1/ACS_HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ivan2/Downloads/ACS_HW1/ACS_HW1/cmake-build-debug/CMakeFiles/ACS_HW1.dir
+C:/Users/ivan2/Downloads/ACS_HW1/ACS_HW1/cmake-build-debug/CMakeFiles/edit_cache.dir

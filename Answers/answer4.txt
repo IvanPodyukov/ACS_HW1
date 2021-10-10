@@ -1,0 +1,64 @@
+Filled container: Container contains 8 elements.
+1: It is a cartoon
+Name = jehjfj
+Year = 1945
+Quotient = 324.166667
+Cartoon type = puppet
+2: It is a science
+Name = rifj
+Year = 2000
+Quotient = 500.000000
+Length_of_movie_in_minutes = 74
+3: It is a cartoon
+Name = hfhgfhgh
+Year = 1949
+Quotient = 243.625000
+Cartoon type = drawn
+4: It is a science
+Name = fkj
+Year = 2021
+Quotient = 673.666667
+Length_of_movie_in_minutes = 128
+5: It is a fiction
+Name = huueJfj
+Year = 1972
+Quotient = 281.714286
+Producer = Ivan
+6: It is a cartoon
+Name = poool
+Year = 1989
+Quotient = 397.800000
+Cartoon type = plasticine
+7: It is a cartoon
+Name = iowoiwkl
+Year = 1973
+Quotient = 246.625000
+Cartoon type = plasticine
+8: It is a fiction
+Name = Hell
+Year = 1987
+Quotient = 496.750000
+Producer = John
+
+Average quotient = 395.543452
+Changed container: Container contains 4 elements.
+1: It is a science
+Name = rifj
+Year = 2000
+Quotient = 500.000000
+Length_of_movie_in_minutes = 74
+2: It is a science
+Name = fkj
+Year = 2021
+Quotient = 673.666667
+Length_of_movie_in_minutes = 128
+3: It is a cartoon
+Name = poool
+Year = 1989
+Quotient = 397.800000
+Cartoon type = plasticine
+4: It is a fiction
+Name = Hell
+Year = 1987
+Quotient = 496.750000
+Producer = John

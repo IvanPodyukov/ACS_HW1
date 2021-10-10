@@ -1,0 +1,54 @@
+Filled container: Container contains 6 elements.
+1: It is a cartoon
+Name = abcd
+Year = 1988
+Quotient = 497.000000
+Cartoon type = puppet
+2: It is a cartoon
+Name = efghr
+Year = 1956
+Quotient = 391.200000
+Cartoon type = drawn
+3: It is a cartoon
+Name = cartoon0
+Year = 2014
+Quotient = 251.750000
+Cartoon type = plasticine
+4: It is a cartoon
+Name = none
+Year = 1934
+Quotient = 483.500000
+Cartoon type = drawn
+5: It is a cartoon
+Name = cartoondefault
+Year = 2018
+Quotient = 144.142857
+Cartoon type = puppet
+6: It is a cartoon
+Name = best
+Year = 1998
+Quotient = 499.500000
+Cartoon type = plasticine
+
+Average quotient = 377.848810
+Changed container: Container contains 4 elements.
+1: It is a cartoon
+Name = abcd
+Year = 1988
+Quotient = 497.000000
+Cartoon type = puppet
+2: It is a cartoon
+Name = efghr
+Year = 1956
+Quotient = 391.200000
+Cartoon type = drawn
+3: It is a cartoon
+Name = none
+Year = 1934
+Quotient = 483.500000
+Cartoon type = drawn
+4: It is a cartoon
+Name = best
+Year = 1998
+Quotient = 499.500000
+Cartoon type = plasticine

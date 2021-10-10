@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ivan2/Downloads/ACS_HW1/ACS_HW1/container.h
+stdio.h
+-
+
+C:/Users/ivan2/Downloads/ACS_HW1/ACS_HW1/main.c
+stdio.h
+-
+container.h
+C:/Users/ivan2/Downloads/ACS_HW1/ACS_HW1/container.h
+stdlib.h
+-
+time.h
+C:/Users/ivan2/Downloads/ACS_HW1/ACS_HW1/time.h
+string.h
+-
+

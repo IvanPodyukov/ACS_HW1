@@ -1,0 +1,5 @@
+2 cartoon1 1987 3
+3 science1 2021 89
+1 fiction1 2005 producer1
+3 science2 1932 35
+2 cartoon2 1978 2

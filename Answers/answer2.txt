@@ -1,0 +1,44 @@
+Filled container: Container contains 5 elements.
+1: It is a cartoon
+Name = cartoon1
+Year = 1987
+Quotient = 248.375000
+Cartoon type = plasticine
+2: It is a science
+Name = science1
+Year = 2021
+Quotient = 252.625000
+Length_of_movie_in_minutes = 89
+3: It is a fiction
+Name = fiction1
+Year = 2005
+Quotient = 250.625000
+Producer = producer1
+4: It is a science
+Name = science2
+Year = 1932
+Quotient = 241.500000
+Length_of_movie_in_minutes = 35
+5: It is a cartoon
+Name = cartoon2
+Year = 1978
+Quotient = 247.250000
+Cartoon type = puppet
+
+Average quotient = 248.075000
+Changed container: Container contains 3 elements.
+1: It is a cartoon
+Name = cartoon1
+Year = 1987
+Quotient = 248.375000
+Cartoon type = plasticine
+2: It is a science
+Name = science1
+Year = 2021
+Quotient = 252.625000
+Length_of_movie_in_minutes = 89
+3: It is a fiction
+Name = fiction1
+Year = 2005
+Quotient = 250.625000
+Producer = producer1
